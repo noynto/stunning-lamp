@@ -20,5 +20,5 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+The code is available under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
